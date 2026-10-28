@@ -1,0 +1,8 @@
+INTEGRATION PLAYBOOK
+====================
+
+Sample paid document #3 for the Paid Client Access exercise.
+
+If you can read this, your Stripe test payment for this document was
+verified by the webhook and access was granted in Supabase. The file is
+served from a private bucket through a signed URL valid for 60 seconds.

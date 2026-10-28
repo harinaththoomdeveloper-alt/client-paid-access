@@ -1,0 +1,9 @@
+SAMPLE DOCUMENT
+===============
+
+This is the paid sample document for the Paid Client Access exercise.
+
+If you can read this, your Stripe test payment was verified by the server
+webhook, an entitlement was recorded in Supabase, and this file was served
+from a private Supabase Storage bucket through a signed URL that expires
+after 60 seconds.
